@@ -1,0 +1,4 @@
+interface:
+  display_name: "效果图转抽象手绘"
+  short_description: "用连笔与写意笔势提炼效果图的空间意向和结构，人物配景一两笔带过"
+  default_prompt: "使用 $render-to-abstract-sketch 将这张效果图转为连笔、写意的黑白空间意向手绘，人物与配景只用一两笔带过。"
