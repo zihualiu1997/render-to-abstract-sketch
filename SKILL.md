@@ -1,6 +1,6 @@
 ---
 name: render-to-abstract-sketch
-license: Unlicense
+license: MIT
 description: Transform architectural, interior, or landscape renderings into expressive monochrome spatial-intention sketches using continuous gestural strokes, merged forms, generous white space, and one- or two-stroke entourage. Use for 效果图转抽象手绘、连笔写意建筑草图、空间意向手绘. Not for accurate perspective illustrations, CAD drawings, or photo-and-abstract editorial layouts.
 ---
 
